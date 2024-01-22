@@ -1,0 +1,111 @@
+[
+    {
+      "title": "Final Fantasy I",
+      "releaseDate": 1987,
+      "mainCharacters": ["Warrior of Light", "Princess Sarah"],
+      "world": "Cornelia"
+    },
+    {
+      "title": "Final Fantasy II",
+      "releaseDate": 1988,
+      "mainCharacters": ["Firion", "Maria", "Guy"],
+      "world": "Pandemonium"
+    },
+    {
+      "title": "Final Fantasy III",
+      "releaseDate": 1990,
+      "mainCharacters": ["Luneth", "Arc", "Refia", "Ingus"],
+      "world": "Floating Continent"
+    },
+    {
+      "title": "Final Fantasy IV",
+      "releaseDate": 1991,
+      "mainCharacters": ["Cecil Harvey", "Rosa Farrell", "Kain Highwind"],
+      "world": "Overworld"
+    },
+    {
+      "title": "Final Fantasy V",
+      "releaseDate": 1992,
+      "mainCharacters": ["Bartz Klauser", "Lenna Charlotte Tycoon", "Galuf Halm Baldesion"],
+      "world": "Planet R"
+    },
+    {
+      "title": "Final Fantasy VI",
+      "releaseDate": 1994,
+      "mainCharacters": ["Terra Branford", "Locke Cole", "Celes Chere", "Edgar Roni Figaro"],
+      "world": "World of Balance/World of Ruin"
+    },
+    {
+      "title": "Final Fantasy VII",
+      "releaseDate": 1997,
+      "mainCharacters": ["Cloud Strife", "Aerith Gainsborough", "Tifa Lockhart"],
+      "world": "Gaia"
+    },
+    {
+      "title": "Final Fantasy VIII",
+      "releaseDate": 1999,
+      "mainCharacters": ["Squall Leonhart", "Rinoa Heartilly", "Quistis Trepe"],
+      "world": "Gaea"
+    },
+    {
+      "title": "Final Fantasy IX",
+      "releaseDate": 2000,
+      "mainCharacters": ["Zidane Tribal", "Garnet Til Alexandros XVII", "Vivi Ornitier"],
+      "world": "Gaia"
+    },
+    {
+      "title": "Final Fantasy X",
+      "releaseDate": 2001,
+      "mainCharacters": ["Tidus", "Yuna", "Auron"],
+      "world": "Spira"
+    },
+    {
+      "title": "Final Fantasy XI",
+      "releaseDate": 2002,
+      "mainCharacters": ["Player Characters"],
+      "world": "Vana'diel"
+    },
+    {
+      "title": "Final Fantasy XII",
+      "releaseDate": 2006,
+      "mainCharacters": ["Vaan", "Ashe", "Balthier", "Fran"],
+      "world": "Ivalice"
+    },
+    {
+      "title": "Final Fantasy XIII",
+      "releaseDate": 2009,
+      "mainCharacters": ["Lightning", "Snow Villiers", "Hope Estheim"],
+      "world": "Cocoon/Gran Pulse"
+    },
+    {
+      "title": "Final Fantasy XIV",
+      "releaseDate": 2010,
+      "mainCharacters": ["Player Characters"],
+      "world": "Eorzea"
+    },
+    {
+      "title": "Final Fantasy XV",
+      "releaseDate": 2016,
+      "mainCharacters": ["Noctis Lucis Caelum", "Prompto Argentum", "Gladiolus Amicitia"],
+      "world": "Eos"
+    },
+    {
+        "title": "Final Fantasy VII Remake",
+        "releaseDate": 2020,
+        "mainCharacters": ["Cloud Strife", "Aerith Gainsborough", "Tifa Lockhart"],
+        "world": "Gaia"
+    },
+    {
+      "title": "Final Fantasy XVI",
+      "releaseDate": 2023,
+      "mainCharacters": ["Clive Rosfield", "Joshua Rosfield", "Jill Warrick", "Torgal"],
+      "world": "Valisthea"
+    },
+    {
+        "title": "Final Fantasy VII Rebirth",
+        "releaseDate": 2023,
+        "mainCharacters": ["Cloud Strife", "Aerith Gainsborough", "Tifa Lockhart"],
+        "world": "Gaia"
+    }
+  ]
+  

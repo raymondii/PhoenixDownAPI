@@ -1,0 +1,59 @@
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background: #292b2c; /* Dark background color */
+    color: #fff; /* Light text color */
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px;
+}
+
+h1 {
+    color: #ffd700; /* Gold color for headings */
+}
+
+h2 {
+    color: #4caf50; /* Green color for secondary headings */
+}
+
+h3 {
+    color: #42a5f5; /* Blue color for tertiary headings */
+}
+
+p {
+    color: #bdbdbd; /* Light gray text color */
+}
+
+ul {
+    list-style-type: square;
+    color: #ffd700; /* Gold color for list items */
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+/* Add responsive styles for smaller screens */
+@media (max-width: 768px) {
+    body {
+        padding: 20px;
+    }
+
+    h1 {
+        font-size: 28px;
+    }
+
+    h2 {
+        font-size: 24px;
+    }
+
+    h3 {
+        font-size: 20px;
+    }
+}
